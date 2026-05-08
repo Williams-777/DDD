@@ -29,7 +29,8 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 **Donate**: If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated - click here to donate using PayPal. Thank you for your support. Donate bitcoin: 16UQLq1HZ3CNwhvgrarV6pMoA2CDjb4tyF    
 
 **Translations**: Can you help translate this site into a foreign language ? Please email us with details if you can help.  
-There is a set of mock banners available here in three colours and in a range of standard banner size
+There is a set of mock banners available here in three colours and in a range of standard banner size. 
+
 ![Banners](https://www.lipsum.com/banners)
 ![Banners](C:\Users\Williams\OneDrive\Desktop\Grazac\DDD\grey_234x60.gif)
 ![Banners](C:\Users\Williams\OneDrive\Desktop\Grazac\DDD\white_234x60.gif)    
